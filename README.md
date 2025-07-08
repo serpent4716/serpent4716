@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jeet Patel</h1>
-<h3 align="center">A full-Stack developer from India</h3>
+<h3 align="center">A full-Stack developer</h3>
 
 - 🔭 I’m currently working on: **cybersecurity**
 
@@ -12,9 +12,9 @@
 
 - 💬 Ask me about: **react, python**
 
-- 📫 How to reach me: **jeet3.33120@gmail.com**
+- 📫 How to reach me: **pateljeet3215@gmail.com**
 
-- 📄 Know about my experiences : Made many projects and also attended tons of hacathons.
+- 📄 Know about my experiences : Made many projects and also attended tons of hackathons.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
